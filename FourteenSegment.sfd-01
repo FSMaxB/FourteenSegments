@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418400192
-ModificationTime: 1418758697
+ModificationTime: 1418763313
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,7 +37,6 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2CapHeight: 0
 OS2XHeight: 0
-OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: ISO8859-1
@@ -46,7 +45,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64 16 5
+WinInfo: 0 16 7
 BeginPrivate: 0
 EndPrivate
 BeginChars: 256 78
@@ -61,37 +60,36 @@ Back
 Fore
 SplineSet
 6 27 m 29
- 4 27 l 29
- 4 17 l 29
  6 17 l 29
+ 4 17 l 29
+ 4 27 l 29
  6 27 l 29
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 20 17 m 5
- 22 17 l 29
- 22 27 l 5
  20 27 l 29
+ 22 27 l 5
+ 22 17 l 29
  20 17 l 5
 20 1 m 5
- 22 1 l 5
- 22 13 l 5
  20 13 l 5
+ 22 13 l 5
+ 22 1 l 5
  20 1 l 5
 8 14 m 5
- 18 14 l 5
- 18 16 l 5
  8 16 l 5
+ 18 16 l 5
+ 18 14 l 5
  8 14 l 5
 6 1 m 5
- 6 13 l 5
- 4 13 l 5
  4 1 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 1 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uni0001
@@ -104,9 +102,9 @@ Back
 Fore
 SplineSet
 15 13 m 5
- 15 9 l 5
- 19 3 l 5
  19 7 l 5
+ 19 3 l 5
+ 15 9 l 5
  15 13 l 5
 11 13 m 5
  11 9 l 5
@@ -119,57 +117,56 @@ SplineSet
  15 21 l 5
  19 27 l 5
 12 3 m 5
- 14 3 l 5
- 14 13 l 5
  12 13 l 5
+ 14 13 l 5
+ 14 3 l 5
  12 3 l 5
 12 17 m 5
- 14 17 l 29
- 14 27 l 5
  12 27 l 29
+ 14 27 l 5
+ 14 17 l 29
  12 17 l 5
 7 27 m 5
- 7 23 l 5
- 11 17 l 5
  11 21 l 5
+ 11 17 l 5
+ 7 23 l 5
  7 27 l 5
 6 27 m 29
- 4 27 l 29
- 4 17 l 29
  6 17 l 29
+ 4 17 l 29
+ 4 27 l 29
  6 27 l 29
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 20 17 m 5
- 22 17 l 29
- 22 27 l 5
  20 27 l 29
+ 22 27 l 5
+ 22 17 l 29
  20 17 l 5
 20 3 m 29
- 22 3 l 29
- 22 13 l 29
  20 13 l 29
+ 22 13 l 29
+ 22 3 l 29
  20 3 l 29
 8 14 m 5
- 18 14 l 5
- 18 16 l 5
  8 16 l 5
+ 18 16 l 5
+ 18 14 l 5
  8 14 l 5
 6 3 m 5
- 6 13 l 5
- 4 13 l 5
  4 3 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 3 l 5
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: uni0000
@@ -182,9 +179,9 @@ Back
 Fore
 SplineSet
 15 13 m 1
- 15 9 l 1
- 19 3 l 1
  19 7 l 1
+ 19 3 l 1
+ 15 9 l 1
  15 13 l 1
 11 13 m 1
  11 9 l 1
@@ -197,62 +194,61 @@ SplineSet
  15 21 l 1
  19 27 l 1
 12 3 m 1
- 14 3 l 1
- 14 13 l 1
  12 13 l 1
+ 14 13 l 1
+ 14 3 l 1
  12 3 l 1
 12 17 m 1
- 14 17 l 25
- 14 27 l 1
  12 27 l 25
+ 14 27 l 1
+ 14 17 l 25
  12 17 l 1
 7 27 m 1
- 7 23 l 1
- 11 17 l 1
  11 21 l 1
+ 11 17 l 1
+ 7 23 l 1
  7 27 l 1
 6 27 m 25
- 4 27 l 25
- 4 17 l 25
  6 17 l 25
+ 4 17 l 25
+ 4 27 l 25
  6 27 l 25
 18 28 m 25
- 18 30 l 25
- 8 30 l 25
  8 28 l 25
+ 8 30 l 25
+ 18 30 l 25
  18 28 l 25
 20 17 m 1
- 22 17 l 25
- 22 27 l 1
  20 27 l 25
+ 22 27 l 1
+ 22 17 l 25
  20 17 l 1
 14 16 m 25
- 14 14 l 25
- 18 14 l 25
  18 16 l 25
+ 18 14 l 25
+ 14 14 l 25
  14 16 l 25
 20 3 m 25
- 22 3 l 25
- 22 13 l 25
  20 13 l 25
+ 22 13 l 25
+ 22 3 l 25
  20 3 l 25
 8 14 m 1
- 12 14 l 1
- 12 16 l 1
  8 16 l 1
+ 12 16 l 1
+ 12 14 l 1
  8 14 l 1
 6 3 m 1
- 6 13 l 1
- 4 13 l 1
  4 3 l 1
+ 4 13 l 1
+ 6 13 l 1
  6 3 l 1
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: eight
@@ -265,42 +261,41 @@ Back
 Fore
 SplineSet
 6 27 m 29
- 4 27 l 5
- 4 17 l 29
  6 17 l 5
+ 4 17 l 29
+ 4 27 l 5
  6 27 l 29
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 20 17 m 5
- 22 17 l 29
- 22 27 l 5
  20 27 l 29
+ 22 27 l 5
+ 22 17 l 29
  20 17 l 5
 20 3 m 29
- 22 3 l 29
- 22 13 l 29
  20 13 l 29
+ 22 13 l 29
+ 22 3 l 29
  20 3 l 29
 8 14 m 5
- 18 14 l 5
- 18 16 l 5
  8 16 l 5
+ 18 16 l 5
+ 18 14 l 5
  8 14 l 5
 6 3 m 5
- 6 13 l 5
- 4 13 l 5
  4 3 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 3 l 5
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: zero
@@ -323,37 +318,36 @@ SplineSet
  15 21 l 5
  19 27 l 5
 6 27 m 29
- 4 27 l 29
- 4 17 l 29
  6 17 l 29
+ 4 17 l 29
+ 4 27 l 29
  6 27 l 29
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 20 17 m 5
- 22 17 l 29
- 22 27 l 5
  20 27 l 29
+ 22 27 l 5
+ 22 17 l 29
  20 17 l 5
 20 3 m 29
- 22 3 l 29
- 22 13 l 29
  20 13 l 29
+ 22 13 l 29
+ 22 3 l 29
  20 3 l 29
 6 3 m 5
- 6 13 l 5
- 4 13 l 5
  4 3 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 3 l 5
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: one
@@ -366,17 +360,16 @@ Back
 Fore
 SplineSet
 4 17 m 5
- 6 17 l 29
- 6 27 l 5
  4 27 l 29
+ 6 27 l 5
+ 6 17 l 29
  4 17 l 5
 4 3 m 29
- 6 3 l 29
- 6 13 l 29
  4 13 l 29
+ 6 13 l 29
+ 6 3 l 29
  4 3 l 29
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: two
@@ -389,32 +382,31 @@ Back
 Fore
 SplineSet
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 20 17 m 5
- 22 17 l 29
- 22 27 l 5
  20 27 l 29
+ 22 27 l 5
+ 22 17 l 29
  20 17 l 5
 8 14 m 5
- 18 14 l 5
- 18 16 l 5
  8 16 l 5
+ 18 16 l 5
+ 18 14 l 5
  8 14 l 5
 6 3 m 5
- 6 13 l 5
- 4 13 l 5
  4 3 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 3 l 5
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: three
@@ -427,32 +419,31 @@ Back
 Fore
 SplineSet
 14 28 m 29
- 14 30 l 29
- 4 30 l 29
  4 28 l 29
+ 4 30 l 29
+ 14 30 l 29
  14 28 l 29
 16 17 m 5
- 18 17 l 29
- 18 27 l 5
  16 27 l 29
+ 18 27 l 5
+ 18 17 l 29
  16 17 l 5
 16 3 m 29
- 18 3 l 29
- 18 13 l 29
  16 13 l 29
+ 18 13 l 29
+ 18 3 l 29
  16 3 l 29
 4 14 m 5
- 14 14 l 5
- 14 16 l 5
  4 16 l 5
+ 14 16 l 5
+ 14 14 l 5
  4 14 l 5
 4 0 m 1
- 14 0 l 25
- 14 2 l 1
  4 2 l 25
+ 14 2 l 1
+ 14 0 l 25
  4 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: four
@@ -465,27 +456,26 @@ Back
 Fore
 SplineSet
 6 27 m 29
- 4 27 l 5
- 4 17 l 29
  6 17 l 5
+ 4 17 l 29
+ 4 27 l 5
  6 27 l 29
 20 17 m 5
- 22 17 l 29
- 22 27 l 5
  20 27 l 29
+ 22 27 l 5
+ 22 17 l 29
  20 17 l 5
 20 3 m 29
- 22 3 l 29
- 22 13 l 29
  20 13 l 29
+ 22 13 l 29
+ 22 3 l 29
  20 3 l 29
 8 14 m 5
- 18 14 l 5
- 18 16 l 5
  8 16 l 5
+ 18 16 l 5
+ 18 14 l 5
  8 14 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: five
@@ -498,32 +488,31 @@ Back
 Fore
 SplineSet
 6 27 m 29
- 4 27 l 5
- 4 17 l 29
  6 17 l 5
+ 4 17 l 29
+ 4 27 l 5
  6 27 l 29
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 20 3 m 29
- 22 3 l 29
- 22 13 l 29
  20 13 l 29
+ 22 13 l 29
+ 22 3 l 29
  20 3 l 29
 8 14 m 5
- 18 14 l 5
- 18 16 l 5
  8 16 l 5
+ 18 16 l 5
+ 18 14 l 5
  8 14 l 5
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: six
@@ -536,37 +525,36 @@ Back
 Fore
 SplineSet
 6 27 m 29
- 4 27 l 5
- 4 17 l 29
  6 17 l 5
+ 4 17 l 29
+ 4 27 l 5
  6 27 l 29
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 20 3 m 29
- 22 3 l 29
- 22 13 l 29
  20 13 l 29
+ 22 13 l 29
+ 22 3 l 29
  20 3 l 29
 8 14 m 5
- 18 14 l 5
- 18 16 l 5
  8 16 l 5
+ 18 16 l 5
+ 18 14 l 5
  8 14 l 5
 6 3 m 5
- 6 13 l 5
- 4 13 l 5
  4 3 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 3 l 5
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: seven
@@ -579,22 +567,21 @@ Back
 Fore
 SplineSet
 14 28 m 29
- 14 30 l 29
- 4 30 l 29
  4 28 l 29
+ 4 30 l 29
+ 14 30 l 29
  14 28 l 29
 16 17 m 5
- 18 17 l 29
- 18 27 l 5
  16 27 l 29
+ 18 27 l 5
+ 18 17 l 29
  16 17 l 5
 16 3 m 29
- 18 3 l 29
- 18 13 l 29
  16 13 l 29
+ 18 13 l 29
+ 18 3 l 29
  16 3 l 29
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: nine
@@ -607,37 +594,36 @@ Back
 Fore
 SplineSet
 6 27 m 29
- 4 27 l 5
- 4 17 l 29
  6 17 l 5
+ 4 17 l 29
+ 4 27 l 5
  6 27 l 29
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 20 17 m 5
- 22 17 l 29
- 22 27 l 5
  20 27 l 29
+ 22 27 l 5
+ 22 17 l 29
  20 17 l 5
 20 3 m 29
- 22 3 l 29
- 22 13 l 29
  20 13 l 29
+ 22 13 l 29
+ 22 3 l 29
  20 3 l 29
 8 14 m 5
- 18 14 l 5
- 18 16 l 5
  8 16 l 5
+ 18 16 l 5
+ 18 14 l 5
  8 14 l 5
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: colon
@@ -650,17 +636,16 @@ Back
 Fore
 SplineSet
 4 8 m 5
- 6 8 l 5
- 6 13 l 5
  4 13 l 5
+ 6 13 l 5
+ 6 8 l 5
  4 8 l 5
 4 17 m 5
- 6 17 l 5
- 6 22 l 5
  4 22 l 5
+ 6 22 l 5
+ 6 17 l 5
  4 17 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: semicolon
@@ -678,12 +663,11 @@ SplineSet
  4 7 l 5
  8 13 l 5
 6 17 m 5
- 8 17 l 5
- 8 22 l 5
  6 22 l 5
+ 8 22 l 5
+ 8 17 l 5
  6 17 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: comma
@@ -714,12 +698,11 @@ Back
 Fore
 SplineSet
 4 14 m 5
- 14 14 l 5
- 14 16 l 5
  4 16 l 5
+ 14 16 l 5
+ 14 14 l 5
  4 14 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: period
@@ -732,12 +715,11 @@ Back
 Fore
 SplineSet
 4 0 m 1
- 6 0 l 1
- 6 2 l 1
  4 2 l 1
+ 6 2 l 1
+ 6 0 l 1
  4 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: slash
@@ -773,17 +755,16 @@ Back
 Fore
 SplineSet
 12 13 m 5
- 12 9 l 5
- 17 1 l 5
  17 5 l 5
+ 17 1 l 5
+ 12 9 l 5
  12 13 l 5
 3 29 m 5
- 3 25 l 5
- 8 17 l 5
  8 21 l 5
+ 8 17 l 5
+ 3 25 l 5
  3 29 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: bracketleft
@@ -796,27 +777,26 @@ Back
 Fore
 SplineSet
 6 27 m 29
- 4 27 l 29
- 4 17 l 29
  6 17 l 29
+ 4 17 l 29
+ 4 27 l 29
  6 27 l 29
 12 28 m 5
- 12 30 l 5
- 8 30 l 5
  8 28 l 5
+ 8 30 l 5
+ 12 30 l 5
  12 28 l 5
 6 3 m 5
- 6 13 l 5
- 4 13 l 5
  4 3 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 3 l 5
 8 0 m 1
- 12 0 l 1
- 12 2 l 1
  8 2 l 1
+ 12 2 l 1
+ 12 0 l 1
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: bracketright
@@ -829,27 +809,26 @@ Back
 Fore
 SplineSet
 8 28 m 5
- 8 30 l 5
- 4 30 l 5
  4 28 l 5
+ 4 30 l 5
+ 8 30 l 5
  8 28 l 5
 10 17 m 5
- 12 17 l 29
- 12 27 l 5
  10 27 l 29
+ 12 27 l 5
+ 12 17 l 29
  10 17 l 5
 10 3 m 29
- 12 3 l 29
- 12 13 l 29
  10 13 l 29
+ 12 13 l 29
+ 12 3 l 29
  10 3 l 29
 4 0 m 1
- 8 0 l 1
- 8 2 l 1
  4 2 l 1
+ 8 2 l 1
+ 8 0 l 1
  4 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: B
@@ -862,42 +841,41 @@ Back
 Fore
 SplineSet
 8 3 m 5
- 10 3 l 5
- 10 13 l 5
  8 13 l 5
+ 10 13 l 5
+ 10 3 l 5
  8 3 l 5
 8 17 m 5
- 10 17 l 29
- 10 27 l 5
  8 27 l 29
+ 10 27 l 5
+ 10 17 l 29
  8 17 l 5
 14 28 m 29
- 14 30 l 29
- 4 30 l 29
  4 28 l 29
+ 4 30 l 29
+ 14 30 l 29
  14 28 l 29
 16 17 m 5
- 18 17 l 29
- 18 27 l 5
  16 27 l 29
+ 18 27 l 5
+ 18 17 l 29
  16 17 l 5
 10 16 m 29
- 10 14 l 29
- 14 14 l 29
  14 16 l 29
+ 14 14 l 29
+ 10 14 l 29
  10 16 l 29
 16 3 m 29
- 18 3 l 29
- 18 13 l 29
  16 13 l 29
+ 18 13 l 29
+ 18 3 l 29
  16 3 l 29
 4 0 m 1
- 14 0 l 25
- 14 2 l 1
  4 2 l 25
+ 14 2 l 1
+ 14 0 l 25
  4 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: C
@@ -910,27 +888,26 @@ Back
 Fore
 SplineSet
 6 27 m 29
- 4 27 l 29
- 4 17 l 29
  6 17 l 29
+ 4 17 l 29
+ 4 27 l 29
  6 27 l 29
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 6 3 m 5
- 6 13 l 5
- 4 13 l 5
  4 3 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 3 l 5
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: D
@@ -943,37 +920,36 @@ Back
 Fore
 SplineSet
 8 3 m 5
- 10 3 l 5
- 10 13 l 5
  8 13 l 5
+ 10 13 l 5
+ 10 3 l 5
  8 3 l 5
 8 17 m 5
- 10 17 l 29
- 10 27 l 5
  8 27 l 29
+ 10 27 l 5
+ 10 17 l 29
  8 17 l 5
 14 28 m 29
- 14 30 l 29
- 4 30 l 29
  4 28 l 29
+ 4 30 l 29
+ 14 30 l 29
  14 28 l 29
 16 17 m 5
- 18 17 l 29
- 18 27 l 5
  16 27 l 29
+ 18 27 l 5
+ 18 17 l 29
  16 17 l 5
 16 3 m 29
- 18 3 l 29
- 18 13 l 29
  16 13 l 29
+ 18 13 l 29
+ 18 3 l 29
  16 3 l 29
 4 0 m 1
- 14 0 l 25
- 14 2 l 1
  4 2 l 25
+ 14 2 l 1
+ 14 0 l 25
  4 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: E
@@ -986,32 +962,31 @@ Back
 Fore
 SplineSet
 6 27 m 29
- 4 27 l 29
- 4 17 l 29
  6 17 l 29
+ 4 17 l 29
+ 4 27 l 29
  6 27 l 29
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 8 14 m 5
- 12 14 l 5
- 12 16 l 5
  8 16 l 5
+ 12 16 l 5
+ 12 14 l 5
  8 14 l 5
 6 3 m 5
- 6 13 l 5
- 4 13 l 5
  4 3 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 3 l 5
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: F
@@ -1024,27 +999,26 @@ Back
 Fore
 SplineSet
 6 27 m 29
- 4 27 l 29
- 4 17 l 29
  6 17 l 29
+ 4 17 l 29
+ 4 27 l 29
  6 27 l 29
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 8 14 m 5
- 12 14 l 5
- 12 16 l 5
  8 16 l 5
+ 12 16 l 5
+ 12 14 l 5
  8 14 l 5
 6 1 m 5
- 6 13 l 5
- 4 13 l 5
  4 1 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 1 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: G
@@ -1057,37 +1031,36 @@ Back
 Fore
 SplineSet
 6 27 m 29
- 4 27 l 29
- 4 17 l 29
  6 17 l 29
+ 4 17 l 29
+ 4 27 l 29
  6 27 l 29
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 14 16 m 29
- 14 14 l 29
- 18 14 l 29
  18 16 l 29
+ 18 14 l 29
+ 14 14 l 29
  14 16 l 29
 20 3 m 29
- 22 3 l 29
- 22 13 l 29
  20 13 l 29
+ 22 13 l 29
+ 22 3 l 29
  20 3 l 29
 6 3 m 5
- 6 13 l 5
- 4 13 l 5
  4 3 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 3 l 5
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: H
@@ -1100,32 +1073,31 @@ Back
 Fore
 SplineSet
 6 29 m 5
- 4 29 l 5
- 4 17 l 5
  6 17 l 5
+ 4 17 l 5
+ 4 29 l 5
  6 29 l 5
 20 17 m 5
- 22 17 l 5
- 22 29 l 5
  20 29 l 5
+ 22 29 l 5
+ 22 17 l 5
  20 17 l 5
 20 1 m 5
- 22 1 l 5
- 22 13 l 5
  20 13 l 5
+ 22 13 l 5
+ 22 1 l 5
  20 1 l 5
 8 14 m 5
- 18 14 l 5
- 18 16 l 5
  8 16 l 5
+ 18 16 l 5
+ 18 14 l 5
  8 14 l 5
 6 1 m 5
- 6 13 l 5
- 4 13 l 5
  4 1 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 1 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: I
@@ -1138,27 +1110,26 @@ Back
 Fore
 SplineSet
 8 3 m 5
- 10 3 l 5
- 10 13 l 5
  8 13 l 5
+ 10 13 l 5
+ 10 3 l 5
  8 3 l 5
 8 17 m 5
- 10 17 l 29
- 10 27 l 5
  8 27 l 29
+ 10 27 l 5
+ 10 17 l 29
  8 17 l 5
 14 28 m 5
- 14 30 l 5
- 4 30 l 5
  4 28 l 5
+ 4 30 l 5
+ 14 30 l 5
  14 28 l 5
 4 0 m 1
- 14 0 l 25
- 14 2 l 1
  4 2 l 25
+ 14 2 l 1
+ 14 0 l 25
  4 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: J
@@ -1171,27 +1142,26 @@ Back
 Fore
 SplineSet
 20 17 m 5
- 22 17 l 5
- 22 29 l 5
  20 29 l 5
+ 22 29 l 5
+ 22 17 l 5
  20 17 l 5
 20 3 m 29
- 22 3 l 29
- 22 13 l 29
  20 13 l 29
+ 22 13 l 29
+ 22 3 l 29
  20 3 l 29
 6 3 m 5
- 6 13 l 5
- 4 13 l 5
  4 3 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 3 l 5
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: K
@@ -1204,9 +1174,9 @@ Back
 Fore
 SplineSet
 15 13 m 5
- 15 9 l 5
- 20 1 l 5
  20 5 l 5
+ 20 1 l 5
+ 15 9 l 5
  15 13 l 5
 20 29 m 5
  20 25 l 5
@@ -1214,22 +1184,21 @@ SplineSet
  15 21 l 5
  20 29 l 5
 6 29 m 5
- 4 29 l 5
- 4 17 l 5
  6 17 l 5
+ 4 17 l 5
+ 4 29 l 5
  6 29 l 5
 8 14 m 5
- 12 14 l 5
- 12 16 l 5
  8 16 l 5
+ 12 16 l 5
+ 12 14 l 5
  8 14 l 5
 6 1 m 5
- 6 13 l 5
- 4 13 l 5
  4 1 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 1 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: L
@@ -1242,22 +1211,21 @@ Back
 Fore
 SplineSet
 6 29 m 5
- 4 29 l 5
- 4 17 l 5
  6 17 l 5
+ 4 17 l 5
+ 4 29 l 5
  6 29 l 5
 6 3 m 5
- 6 13 l 5
- 4 13 l 5
  4 3 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 3 l 5
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: M
@@ -1275,32 +1243,31 @@ SplineSet
  15 21 l 5
  19 27 l 5
 7 27 m 5
- 7 23 l 5
- 11 17 l 5
  11 21 l 5
+ 11 17 l 5
+ 7 23 l 5
  7 27 l 5
 6 27 m 29
- 4 27 l 29
- 4 17 l 29
  6 17 l 29
+ 4 17 l 29
+ 4 27 l 29
  6 27 l 29
 20 17 m 5
- 22 17 l 29
- 22 27 l 5
  20 27 l 29
+ 22 27 l 5
+ 22 17 l 29
  20 17 l 5
 20 1 m 5
- 22 1 l 5
- 22 13 l 5
  20 13 l 5
+ 22 13 l 5
+ 22 1 l 5
  20 1 l 5
 6 1 m 5
- 6 13 l 5
- 4 13 l 5
  4 1 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 1 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: N
@@ -1313,37 +1280,36 @@ Back
 Fore
 SplineSet
 14 13 m 5
- 14 9 l 5
- 19 1 l 5
  19 5 l 5
+ 19 1 l 5
+ 14 9 l 5
  14 13 l 5
 7 29 m 5
- 7 25 l 5
- 12 17 l 5
  12 21 l 5
+ 12 17 l 5
+ 7 25 l 5
  7 29 l 5
 6 29 m 5
- 4 29 l 5
- 4 17 l 5
  6 17 l 5
+ 4 17 l 5
+ 4 29 l 5
  6 29 l 5
 20 17 m 5
- 22 17 l 5
- 22 29 l 5
  20 29 l 5
+ 22 29 l 5
+ 22 17 l 5
  20 17 l 5
 20 1 m 5
- 22 1 l 5
- 22 13 l 5
  20 13 l 5
+ 22 13 l 5
+ 22 1 l 5
  20 1 l 5
 6 1 m 5
- 6 13 l 5
- 4 13 l 5
  4 1 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 1 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: O
@@ -1356,37 +1322,36 @@ Back
 Fore
 SplineSet
 6 27 m 29
- 4 27 l 29
- 4 17 l 29
  6 17 l 29
+ 4 17 l 29
+ 4 27 l 29
  6 27 l 29
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 20 17 m 5
- 22 17 l 29
- 22 27 l 5
  20 27 l 29
+ 22 27 l 5
+ 22 17 l 29
  20 17 l 5
 20 3 m 29
- 22 3 l 29
- 22 13 l 29
  20 13 l 29
+ 22 13 l 29
+ 22 3 l 29
  20 3 l 29
 6 3 m 5
- 6 13 l 5
- 4 13 l 5
  4 3 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 3 l 5
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: P
@@ -1399,32 +1364,31 @@ Back
 Fore
 SplineSet
 6 27 m 29
- 4 27 l 29
- 4 17 l 29
  6 17 l 29
+ 4 17 l 29
+ 4 27 l 29
  6 27 l 29
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 20 17 m 5
- 22 17 l 29
- 22 27 l 5
  20 27 l 29
+ 22 27 l 5
+ 22 17 l 29
  20 17 l 5
 8 14 m 5
- 18 14 l 5
- 18 16 l 5
  8 16 l 5
+ 18 16 l 5
+ 18 14 l 5
  8 14 l 5
 6 1 m 5
- 6 13 l 5
- 4 13 l 5
  4 1 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 1 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: Q
@@ -1437,42 +1401,41 @@ Back
 Fore
 SplineSet
 14 15 m 5
- 14 11 l 5
- 19 3 l 5
  19 7 l 5
+ 19 3 l 5
+ 14 11 l 5
  14 15 l 5
 6 27 m 29
- 4 27 l 29
- 4 17 l 29
  6 17 l 29
+ 4 17 l 29
+ 4 27 l 29
  6 27 l 29
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 20 17 m 5
- 22 17 l 29
- 22 27 l 5
  20 27 l 29
+ 22 27 l 5
+ 22 17 l 29
  20 17 l 5
 20 3 m 29
- 22 3 l 29
- 22 13 l 29
  20 13 l 29
+ 22 13 l 29
+ 22 3 l 29
  20 3 l 29
 6 3 m 5
- 6 13 l 5
- 4 13 l 5
  4 3 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 3 l 5
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: R
@@ -1485,37 +1448,36 @@ Back
 Fore
 SplineSet
 15 13 m 5
- 15 9 l 5
- 20 1 l 5
  20 5 l 5
+ 20 1 l 5
+ 15 9 l 5
  15 13 l 5
 6 27 m 29
- 4 27 l 29
- 4 17 l 29
  6 17 l 29
+ 4 17 l 29
+ 4 27 l 29
  6 27 l 29
 18 28 m 29
- 18 30 l 29
- 8 30 l 29
  8 28 l 29
+ 8 30 l 29
+ 18 30 l 29
  18 28 l 29
 20 17 m 5
- 22 17 l 29
- 22 27 l 5
  20 27 l 29
+ 22 27 l 5
+ 22 17 l 29
  20 17 l 5
 8 14 m 5
- 18 14 l 5
- 18 16 l 5
  8 16 l 5
+ 18 16 l 5
+ 18 14 l 5
  8 14 l 5
 6 1 m 5
- 6 13 l 5
- 4 13 l 5
  4 1 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 1 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: S
@@ -1528,32 +1490,31 @@ Back
 Fore
 SplineSet
 4 27 m 5
- 4 23 l 1
- 8 17 l 1
  8 21 l 1
+ 8 17 l 1
+ 4 23 l 1
  4 27 l 5
 15 28 m 25
- 15 30 l 25
- 5 30 l 25
  5 28 l 25
+ 5 30 l 25
+ 15 30 l 25
  15 28 l 25
 11 16 m 25
- 11 14 l 25
- 15 14 l 25
  15 16 l 25
+ 15 14 l 25
+ 11 14 l 25
  11 16 l 25
 17 3 m 25
- 19 3 l 25
- 19 13 l 25
  17 13 l 25
+ 19 13 l 25
+ 19 3 l 25
  17 3 l 25
 5 0 m 1
- 15 0 l 25
- 15 2 l 1
  5 2 l 25
+ 15 2 l 1
+ 15 0 l 25
  5 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: T
@@ -1566,22 +1527,21 @@ Back
 Fore
 SplineSet
 9 1 m 5
- 11 1 l 5
- 11 13 l 5
  9 13 l 5
+ 11 13 l 5
+ 11 1 l 5
  9 1 l 5
 9 17 m 5
- 11 17 l 29
- 11 27 l 5
  9 27 l 29
+ 11 27 l 5
+ 11 17 l 29
  9 17 l 5
 17 28 m 5
- 17 30 l 5
- 3 30 l 5
  3 28 l 5
+ 3 30 l 5
+ 17 30 l 5
  17 28 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: U
@@ -1594,32 +1554,31 @@ Back
 Fore
 SplineSet
 6 29 m 5
- 4 29 l 5
- 4 17 l 5
  6 17 l 5
+ 4 17 l 5
+ 4 29 l 5
  6 29 l 5
 20 17 m 5
- 22 17 l 5
- 22 29 l 5
  20 29 l 5
+ 22 29 l 5
+ 22 17 l 5
  20 17 l 5
 20 3 m 29
- 22 3 l 29
- 22 13 l 29
  20 13 l 29
+ 22 13 l 29
+ 22 3 l 29
  20 3 l 29
 6 3 m 5
- 6 13 l 5
- 4 13 l 5
  4 3 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 3 l 5
 8 0 m 1
- 18 0 l 25
- 18 2 l 1
  8 2 l 25
+ 18 2 l 1
+ 18 0 l 25
  8 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: V
@@ -1642,17 +1601,16 @@ SplineSet
  15 21 l 5
  20 29 l 5
 6 29 m 5
- 4 29 l 5
- 4 17 l 5
  6 17 l 5
+ 4 17 l 5
+ 4 29 l 5
  6 29 l 5
 6 1 m 5
- 6 13 l 5
- 4 13 l 5
  4 1 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 1 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: W
@@ -1665,9 +1623,9 @@ Back
 Fore
 SplineSet
 14 13 m 5
- 14 9 l 5
- 19 1 l 5
  19 5 l 5
+ 19 1 l 5
+ 14 9 l 5
  14 13 l 5
 12 13 m 5
  12 9 l 5
@@ -1675,60 +1633,58 @@ SplineSet
  7 5 l 5
  12 13 l 5
 6 29 m 5
- 4 29 l 5
- 4 17 l 5
  6 17 l 5
+ 4 17 l 5
+ 4 29 l 5
  6 29 l 5
 20 17 m 5
- 22 17 l 5
- 22 29 l 5
  20 29 l 5
+ 22 29 l 5
+ 22 17 l 5
  20 17 l 5
 20 1 m 5
- 22 1 l 5
- 22 13 l 5
  20 13 l 5
+ 22 13 l 5
+ 22 1 l 5
  20 1 l 5
 6 1 m 5
- 6 13 l 5
- 4 13 l 5
  4 1 l 5
+ 4 13 l 5
+ 6 13 l 5
  6 1 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: X
 Encoding: 88 88 44
-Width: 20
+Width: 21
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
 Fore
 SplineSet
-12 13 m 5
- 12 9 l 5
- 17 1 l 5
- 17 5 l 5
- 12 13 l 5
-8 13 m 5
- 8 9 l 5
- 3 1 l 5
- 3 5 l 5
- 8 13 l 5
-17 29 m 5
- 17 25 l 5
- 12 17 l 5
- 12 21 l 5
- 17 29 l 5
-3 29 m 5
- 3 25 l 5
- 8 17 l 5
- 8 21 l 5
- 3 29 l 5
+13 13 m 5
+ 18 5 l 5
+ 18 1 l 5
+ 13 9 l 5
+ 13 13 l 5
+9 13 m 5
+ 9 9 l 5
+ 4 1 l 5
+ 4 5 l 5
+ 9 13 l 5
+18 29 m 5
+ 18 25 l 5
+ 13 17 l 5
+ 13 21 l 5
+ 18 29 l 5
+4 29 m 5
+ 9 21 l 5
+ 9 17 l 5
+ 4 25 l 5
+ 4 29 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: Y
@@ -1746,17 +1702,16 @@ SplineSet
  12 21 l 5
  17 29 l 5
 9 1 m 5
- 11 1 l 5
- 11 13 l 5
  9 13 l 5
+ 11 13 l 5
+ 11 1 l 5
  9 1 l 5
 3 29 m 5
- 3 25 l 5
- 8 17 l 5
  8 21 l 5
+ 8 17 l 5
+ 3 25 l 5
  3 29 l 5
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: Z
@@ -1779,17 +1734,16 @@ SplineSet
  12 21 l 5
  16 27 l 5
 16 28 m 5
- 16 30 l 5
- 4 30 l 5
  4 28 l 5
+ 4 30 l 5
+ 16 30 l 5
  16 28 l 5
 4 0 m 1
- 16 0 l 1
- 16 2 l 1
  4 2 l 1
+ 16 2 l 1
+ 16 0 l 1
  4 0 l 1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: underscore
@@ -1802,134 +1756,848 @@ Back
 Fore
 SplineSet
 3 0 m 5
- 15 0 l 1
- 15 2 l 1
  3 2 l 1
+ 15 2 l 1
+ 15 0 l 1
  3 0 l 5
 EndSplineSet
-Validated: 9
-EndChar
-
-StartChar: space
-Encoding: 32 32 48
-Width: 22
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-Validated: 1
 EndChar
 
 StartChar: a
-Encoding: 97 97 49
-Width: 26
+Encoding: 97 97 48
+Width: 24
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
 Fore
 SplineSet
-18 28 m 25
- 18 30 l 25
- 8 30 l 25
- 8 28 l 25
- 18 28 l 25
-20 17 m 1
- 22 17 l 25
- 22 27 l 1
- 20 27 l 25
- 20 17 l 1
-20 3 m 25
- 22 3 l 25
- 22 13 l 25
- 20 13 l 25
- 20 3 l 25
-8 14 m 1
- 18 14 l 1
- 18 16 l 1
- 8 16 l 1
- 8 14 l 1
-6 3 m 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
- 6 3 l 1
-8 0 m 1
- 18 0 l 25
- 18 2 l 1
- 8 2 l 25
- 8 0 l 1
+17 20 m 25
+ 7 20 l 25
+ 7 22 l 25
+ 17 22 l 25
+ 17 20 l 25
+18 12 m 1
+ 18 20 l 25
+ 20 20 l 1
+ 20 12 l 25
+ 18 12 l 1
+18 2 m 25
+ 18 10 l 25
+ 20 10 l 25
+ 20 2 l 25
+ 18 2 l 25
+7 10 m 1
+ 7 12 l 1
+ 17 12 l 1
+ 17 10 l 1
+ 7 10 l 1
+6 2 m 1
+ 4 2 l 1
+ 4 10 l 1
+ 6 10 l 1
+ 6 2 l 1
+7 0 m 1
+ 7 2 l 25
+ 17 2 l 1
+ 17 0 l 25
+ 7 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: b
-Encoding: 98 98 50
-Width: 23
+Encoding: 98 98 49
+Width: 21
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
 Fore
 SplineSet
-15 13 m 1
- 15 9 l 1
- 19 3 l 1
- 19 7 l 1
- 15 13 l 1
-6 27 m 25
- 4 27 l 25
- 4 17 l 25
- 6 17 l 25
- 6 27 l 25
-8 14 m 1
- 12 14 l 1
- 12 16 l 1
- 8 16 l 1
- 8 14 l 1
-6 3 m 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
- 6 3 l 1
-8 0 m 1
- 18 0 l 25
- 18 2 l 1
- 8 2 l 25
- 8 0 l 1
+13 12 m 1
+ 17 6 l 1
+ 17 2 l 1
+ 13 8 l 1
+ 13 12 l 1
+6 22 m 25
+ 6 13 l 25
+ 4 13 l 25
+ 4 22 l 25
+ 6 22 l 25
+7 11 m 1
+ 7 13 l 1
+ 11 13 l 1
+ 11 11 l 1
+ 7 11 l 1
+6 2 m 1
+ 4 2 l 1
+ 4 11 l 1
+ 6 11 l 1
+ 6 2 l 1
+7 0 m 1
+ 7 2 l 1
+ 15 2 l 1
+ 15 0 l 1
+ 7 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: c
-Encoding: 99 99 51
-Width: 22
+Encoding: 99 99 50
+Width: 21
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Back
 Fore
 SplineSet
-8 14 m 1
- 18 14 l 1
- 18 16 l 1
- 8 16 l 1
- 8 14 l 1
-6 3 m 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
- 6 3 l 1
-8 0 m 1
- 18 0 l 25
- 18 2 l 1
- 8 2 l 25
- 8 0 l 1
+7 12 m 1
+ 7 14 l 1
+ 17 14 l 1
+ 17 12 l 1
+ 7 12 l 1
+6 2 m 1
+ 4 2 l 1
+ 4 12 l 1
+ 6 12 l 1
+ 6 2 l 1
+7 0 m 1
+ 7 2 l 25
+ 17 2 l 1
+ 17 0 l 25
+ 7 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: d
-Encoding: 100 100 52
+Encoding: 100 100 51
+Width: 21
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+8 12 m 1
+ 8 8 l 1
+ 4 2 l 1
+ 4 6 l 1
+ 8 12 l 1
+15 12 m 1
+ 15 22 l 25
+ 17 22 l 1
+ 17 12 l 25
+ 15 12 l 1
+15 2 m 25
+ 15 10 l 25
+ 17 10 l 25
+ 17 2 l 25
+ 15 2 l 25
+10 10 m 1
+ 10 12 l 1
+ 14 12 l 1
+ 14 10 l 1
+ 10 10 l 1
+6 0 m 1
+ 6 2 l 25
+ 14 2 l 1
+ 14 0 l 25
+ 6 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: e
+Encoding: 101 101 52
+Width: 24
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+7 7 m 1
+ 7 9 l 1
+ 17 9 l 1
+ 17 7 l 1
+ 7 7 l 1
+20 13 m 1
+ 20 9 l 1
+ 18 9 l 1
+ 18 13 l 1
+ 20 13 l 1
+7 14 m 1
+ 7 16 l 1
+ 17 16 l 1
+ 17 14 l 1
+ 7 14 l 1
+6 3 m 1
+ 4 3 l 1
+ 4 13 l 1
+ 6 13 l 1
+ 6 3 l 1
+7 0 m 1
+ 7 2 l 25
+ 17 2 l 1
+ 17 0 l 25
+ 7 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: f
+Encoding: 102 102 53
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+4 0 m 1
+ 4 8 l 1
+ 6 8 l 1
+ 6 0 l 1
+ 4 0 l 1
+4 12 m 1
+ 4 20 l 25
+ 6 20 l 1
+ 6 12 l 25
+ 4 12 l 1
+10 21 m 1
+ 6 21 l 1
+ 6 23 l 1
+ 10 23 l 1
+ 10 21 l 1
+6 11 m 25
+ 10 11 l 25
+ 10 9 l 25
+ 6 9 l 25
+ 6 11 l 25
+EndSplineSet
+EndChar
+
+StartChar: g
+Encoding: 103 103 54
+Width: 21
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+4 13 m 1
+ 8 6 l 1
+ 8 2 l 1
+ 4 9 l 1
+ 4 13 l 1
+14 14 m 25
+ 4 14 l 25
+ 4 16 l 25
+ 14 16 l 25
+ 14 14 l 25
+15 4 m 1
+ 15 14 l 25
+ 17 14 l 1
+ 17 4 l 25
+ 15 4 l 1
+9 4 m 1
+ 14 4 l 1
+ 14 2 l 1
+ 9 2 l 1
+ 9 4 l 1
+15 -6 m 25
+ 15 2 l 25
+ 17 2 l 25
+ 17 -6 l 25
+ 15 -6 l 25
+4 -8 m 1
+ 4 -6 l 25
+ 14 -6 l 1
+ 14 -8 l 25
+ 4 -8 l 1
+EndSplineSet
+EndChar
+
+StartChar: h
+Encoding: 104 104 55
+Width: 21
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+6 20 m 25
+ 6 11 l 25
+ 4 11 l 25
+ 4 20 l 25
+ 6 20 l 25
+15 0 m 25
+ 15 9 l 25
+ 17 9 l 25
+ 17 0 l 25
+ 15 0 l 25
+7 9 m 1
+ 7 11 l 1
+ 14 11 l 1
+ 14 9 l 1
+ 7 9 l 1
+6 0 m 1
+ 4 0 l 1
+ 4 9 l 1
+ 6 9 l 1
+ 6 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: i
+Encoding: 105 105 56
+Width: 10
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+4 0 m 5
+ 4 10 l 5
+ 6 10 l 5
+ 6 0 l 5
+ 4 0 l 5
+4 12 m 5
+ 4 14 l 5
+ 6 14 l 5
+ 6 12 l 5
+ 4 12 l 5
+EndSplineSet
+EndChar
+
+StartChar: j
+Encoding: 106 106 57
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+8 3 m 1
+ 8 13 l 1
+ 10 13 l 1
+ 10 3 l 1
+ 8 3 l 1
+8 15 m 1
+ 8 17 l 1
+ 10 17 l 1
+ 10 15 l 1
+ 8 15 l 1
+4 0 m 1
+ 4 2 l 1
+ 8 2 l 1
+ 8 0 l 1
+ 4 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: k
+Encoding: 107 107 58
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+7 9 m 1
+ 12 3 l 1
+ 12 0 l 1
+ 7 6 l 1
+ 7 9 l 1
+12 19 m 1
+ 12 16 l 1
+ 7 10 l 1
+ 7 13 l 1
+ 12 19 l 1
+4 0 m 1
+ 4 9 l 1
+ 6 9 l 1
+ 6 0 l 1
+ 4 0 l 1
+4 10 m 1
+ 4 19 l 1
+ 6 19 l 1
+ 6 10 l 1
+ 4 10 l 1
+EndSplineSet
+EndChar
+
+StartChar: l
+Encoding: 108 108 59
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+4 3 m 1
+ 4 11 l 1
+ 6 11 l 1
+ 6 3 l 1
+ 4 3 l 1
+4 12 m 1
+ 4 20 l 1
+ 6 20 l 1
+ 6 12 l 1
+ 4 12 l 1
+6 0 m 1
+ 6 2 l 1
+ 10 2 l 1
+ 10 0 l 1
+ 6 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: m
+Encoding: 109 109 60
+Width: 24
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+11 0 m 1
+ 11 10 l 1
+ 13 10 l 1
+ 13 0 l 1
+ 11 0 l 1
+18 0 m 25
+ 18 10 l 25
+ 20 10 l 25
+ 20 0 l 25
+ 18 0 l 25
+7 11 m 1
+ 7 13 l 1
+ 17 13 l 1
+ 17 11 l 1
+ 7 11 l 1
+6 0 m 1
+ 4 0 l 1
+ 4 10 l 1
+ 6 10 l 1
+ 6 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: n
+Encoding: 110 110 61
+Width: 21
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+17 10 m 1
+ 17 0 l 1
+ 15 0 l 1
+ 15 10 l 1
+ 17 10 l 1
+7 11 m 1
+ 7 13 l 1
+ 14 13 l 1
+ 14 11 l 1
+ 7 11 l 1
+6 0 m 1
+ 4 0 l 1
+ 4 10 l 1
+ 6 10 l 1
+ 6 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: o
+Encoding: 111 111 62
+Width: 21
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+15 3 m 1
+ 15 10 l 1
+ 17 10 l 1
+ 17 3 l 1
+ 15 3 l 1
+6 11 m 1
+ 6 13 l 1
+ 15 13 l 1
+ 15 11 l 1
+ 6 11 l 1
+6 3 m 1
+ 4 3 l 1
+ 4 10 l 1
+ 6 10 l 1
+ 6 3 l 1
+6 0 m 1
+ 6 2 l 1
+ 15 2 l 1
+ 15 0 l 1
+ 6 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: p
+Encoding: 112 112 63
+Width: 18
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+4 -8 m 1
+ 4 0 l 1
+ 6 0 l 1
+ 6 -8 l 1
+ 4 -8 l 1
+4 4 m 1
+ 4 11 l 1
+ 6 11 l 1
+ 6 4 l 1
+ 4 4 l 1
+12 12 m 1
+ 6 12 l 1
+ 6 14 l 1
+ 12 14 l 1
+ 12 12 l 1
+12 4 m 1
+ 12 11 l 1
+ 14 11 l 1
+ 14 4 l 1
+ 12 4 l 1
+6 3 m 1
+ 12 3 l 1
+ 12 1 l 1
+ 6 1 l 1
+ 6 3 l 1
+EndSplineSet
+EndChar
+
+StartChar: q
+Encoding: 113 113 64
+Width: 18
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+12 -8 m 1
+ 12 0 l 1
+ 14 0 l 1
+ 14 -8 l 1
+ 12 -8 l 1
+12 4 m 1
+ 12 11 l 1
+ 14 11 l 1
+ 14 4 l 1
+ 12 4 l 1
+6 11 m 1
+ 6 4 l 1
+ 4 4 l 1
+ 4 11 l 1
+ 6 11 l 1
+12 12 m 1
+ 6 12 l 1
+ 6 14 l 1
+ 12 14 l 1
+ 12 12 l 1
+6 1 m 1
+ 6 3 l 1
+ 12 3 l 1
+ 12 1 l 1
+ 6 1 l 1
+EndSplineSet
+EndChar
+
+StartChar: r
+Encoding: 114 114 65
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+4 3 m 1
+ 4 12 l 1
+ 6 12 l 1
+ 6 3 l 1
+ 4 3 l 1
+6 15 m 25
+ 10 15 l 25
+ 10 13 l 25
+ 6 13 l 25
+ 6 15 l 25
+EndSplineSet
+EndChar
+
+StartChar: s
+Encoding: 115 115 66
+Width: 20
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+4 16 m 1
+ 8 11 l 1
+ 8 8 l 1
+ 4 13 l 1
+ 4 16 l 1
+13 17 m 25
+ 4 17 l 1
+ 4 19 l 1
+ 13 19 l 25
+ 13 17 l 25
+9 10 m 25
+ 13 10 l 25
+ 13 8 l 25
+ 9 8 l 25
+ 9 10 l 25
+14 1 m 25
+ 14 9 l 25
+ 16 9 l 25
+ 16 1 l 25
+ 14 1 l 25
+4 0 m 1
+ 4 2 l 25
+ 13 2 l 1
+ 13 0 l 25
+ 4 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: t
+Encoding: 116 116 67
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+6 20 m 25
+ 6 12 l 25
+ 4 12 l 25
+ 4 20 l 25
+ 6 20 l 25
+8 10 m 1
+ 8 12 l 1
+ 12 12 l 1
+ 12 10 l 1
+ 8 10 l 1
+6 2 m 1
+ 4 2 l 1
+ 4 10 l 1
+ 6 10 l 1
+ 6 2 l 1
+8 0 m 1
+ 8 2 l 1
+ 12 2 l 1
+ 12 0 l 1
+ 8 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u
+Encoding: 117 117 68
+Width: 21
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+15 2 m 25
+ 15 13 l 25
+ 17 13 l 25
+ 17 2 l 25
+ 15 2 l 25
+6 2 m 1
+ 4 2 l 1
+ 4 13 l 1
+ 6 13 l 1
+ 6 2 l 1
+7 0 m 1
+ 7 2 l 25
+ 14 2 l 1
+ 14 0 l 25
+ 7 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: v
+Encoding: 118 118 69
+Width: 17
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+13 13 m 1
+ 13 9 l 1
+ 7 0 l 1
+ 7 4 l 1
+ 13 13 l 1
+6 0 m 1
+ 4 0 l 1
+ 4 12 l 1
+ 6 12 l 1
+ 6 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: w
+Encoding: 119 119 70
 Width: 23
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+12 11 m 1
+ 16 4 l 1
+ 16 0 l 1
+ 12 6 l 1
+ 12 11 l 1
+11 11 m 1
+ 11 6 l 1
+ 7 0 l 1
+ 7 4 l 1
+ 11 11 l 1
+17 0 m 25
+ 17 11 l 25
+ 19 11 l 25
+ 19 0 l 25
+ 17 0 l 25
+6 0 m 1
+ 4 0 l 1
+ 4 11 l 1
+ 6 11 l 1
+ 6 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: x
+Encoding: 120 120 71
+Width: 19
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+10 10 m 1
+ 15 4 l 1
+ 15 0 l 1
+ 10 6 l 1
+ 10 10 l 1
+9 10 m 1
+ 9 6 l 1
+ 4 0 l 1
+ 4 4 l 1
+ 9 10 l 1
+15 21 m 1
+ 15 16 l 1
+ 10 10 l 1
+ 10 14 l 1
+ 15 21 l 1
+4 21 m 1
+ 9 14 l 1
+ 9 10 l 1
+ 4 17 l 1
+ 4 21 l 1
+EndSplineSet
+EndChar
+
+StartChar: y
+Encoding: 121 121 72
+Width: 18
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+4 4 m 1
+ 4 12 l 25
+ 6 12 l 1
+ 6 4 l 25
+ 4 4 l 1
+12 4 m 1
+ 12 12 l 25
+ 14 12 l 1
+ 14 4 l 25
+ 12 4 l 1
+7 4 m 25
+ 11 4 l 25
+ 11 2 l 25
+ 7 2 l 25
+ 7 4 l 25
+12 -6 m 25
+ 12 2 l 25
+ 14 2 l 25
+ 14 -6 l 25
+ 12 -6 l 25
+7 -8 m 1
+ 7 -6 l 1
+ 11 -6 l 1
+ 11 -8 l 1
+ 7 -8 l 1
+EndSplineSet
+EndChar
+
+StartChar: z
+Encoding: 122 122 73
+Width: 18
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+8 9 m 1
+ 8 6 l 1
+ 4 2 l 1
+ 4 5 l 1
+ 8 9 l 1
+14 13 m 1
+ 14 10 l 1
+ 10 6 l 1
+ 10 9 l 1
+ 14 13 l 1
+14 13 m 25
+ 4 13 l 25
+ 4 15 l 25
+ 14 15 l 25
+ 14 13 l 25
+4 0 m 1
+ 4 2 l 25
+ 14 2 l 1
+ 14 0 l 25
+ 4 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: braceleft
+Encoding: 123 123 74
+Width: 19
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -1941,174 +2609,31 @@ SplineSet
  4 3 l 1
  4 7 l 1
  8 13 l 1
-17 17 m 1
- 19 17 l 25
- 19 27 l 1
- 17 27 l 25
- 17 17 l 1
-17 3 m 25
- 19 3 l 25
- 19 13 l 25
- 17 13 l 25
- 17 3 l 25
-11 14 m 1
- 15 14 l 1
- 15 16 l 1
- 11 16 l 1
- 11 14 l 1
-5 0 m 1
- 15 0 l 25
- 15 2 l 1
- 5 2 l 25
- 5 0 l 1
-EndSplineSet
-EndChar
-
-StartChar: e
-Encoding: 101 101 53
-Width: 22
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-6 27 m 25
- 4 27 l 25
- 4 17 l 25
- 6 17 l 25
- 6 27 l 25
-18 28 m 25
- 18 30 l 25
- 8 30 l 25
- 8 28 l 25
- 18 28 l 25
-8 14 m 1
- 12 14 l 1
- 12 16 l 1
- 8 16 l 1
- 8 14 l 1
-6 3 m 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
- 6 3 l 1
-8 0 m 1
- 18 0 l 25
- 18 2 l 1
- 8 2 l 25
- 8 0 l 1
-EndSplineSet
-EndChar
-
-StartChar: f
-Encoding: 102 102 54
-Width: 14
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-4 3 m 1
- 6 3 l 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
-4 17 m 1
- 6 17 l 25
- 6 27 l 1
- 4 27 l 25
- 4 17 l 1
-10 28 m 1
- 10 30 l 1
- 6 30 l 1
- 6 28 l 1
- 10 28 l 1
-6 16 m 25
- 6 14 l 25
- 10 14 l 25
- 10 16 l 25
- 6 16 l 25
-EndSplineSet
-EndChar
-
-StartChar: g
-Encoding: 103 103 55
-Width: 23
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
 4 27 m 1
- 4 23 l 1
- 8 17 l 1
  8 21 l 1
+ 8 17 l 1
+ 4 23 l 1
  4 27 l 1
 15 28 m 25
- 15 30 l 25
- 5 30 l 25
  5 28 l 25
+ 5 30 l 25
+ 15 30 l 25
  15 28 l 25
-17 17 m 1
- 19 17 l 25
- 19 27 l 1
- 17 27 l 25
- 17 17 l 1
-11 16 m 25
- 11 14 l 25
- 15 14 l 25
- 15 16 l 25
- 11 16 l 25
-17 3 m 25
- 19 3 l 25
- 19 13 l 25
- 17 13 l 25
- 17 3 l 25
+5 14 m 1
+ 5 16 l 1
+ 9 16 l 1
+ 9 14 l 1
+ 5 14 l 1
 5 0 m 1
- 15 0 l 25
- 15 2 l 1
  5 2 l 25
+ 15 2 l 1
+ 15 0 l 25
  5 0 l 1
 EndSplineSet
 EndChar
 
-StartChar: h
-Encoding: 104 104 56
-Width: 26
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-6 27 m 25
- 4 27 l 25
- 4 17 l 25
- 6 17 l 25
- 6 27 l 25
-20 3 m 25
- 22 3 l 25
- 22 13 l 25
- 20 13 l 25
- 20 3 l 25
-8 14 m 1
- 18 14 l 1
- 18 16 l 1
- 8 16 l 1
- 8 14 l 1
-6 3 m 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
- 6 3 l 1
-EndSplineSet
-EndChar
-
-StartChar: i
-Encoding: 105 105 57
+StartChar: bar
+Encoding: 124 124 75
 Width: 10
 VWidth: 0
 Flags: HW
@@ -2117,603 +2642,57 @@ Back
 Fore
 SplineSet
 4 3 m 1
- 6 3 l 1
- 6 13 l 1
  4 13 l 1
+ 6 13 l 1
+ 6 3 l 1
  4 3 l 1
 4 17 m 1
- 6 17 l 1
- 6 19 l 1
- 4 19 l 1
- 4 17 l 1
-EndSplineSet
-EndChar
-
-StartChar: j
-Encoding: 106 106 58
-Width: 14
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-8 3 m 1
- 10 3 l 1
- 10 13 l 1
- 8 13 l 1
- 8 3 l 1
-8 17 m 1
- 10 17 l 1
- 10 19 l 1
- 8 19 l 1
- 8 17 l 1
-4 0 m 1
- 8 0 l 1
- 8 2 l 1
- 4 2 l 1
- 4 0 l 1
-EndSplineSet
-EndChar
-
-StartChar: k
-Encoding: 107 107 59
-Width: 15
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-7 13 m 1
- 7 9 l 1
- 11 3 l 1
- 11 7 l 1
- 7 13 l 1
-11 27 m 1
- 11 23 l 1
- 7 17 l 1
- 7 21 l 1
- 11 27 l 1
-4 3 m 1
- 6 3 l 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
-4 17 m 1
- 6 17 l 25
+ 4 27 l 25
  6 27 l 1
- 4 27 l 25
+ 6 17 l 25
  4 17 l 1
-EndSplineSet
-EndChar
-
-StartChar: l
-Encoding: 108 108 60
-Width: 14
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-4 3 m 1
- 6 3 l 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
-4 17 m 1
- 6 17 l 25
- 6 27 l 1
- 4 27 l 25
- 4 17 l 1
-6 0 m 1
- 10 0 l 1
- 10 2 l 1
- 6 2 l 1
- 6 0 l 1
-EndSplineSet
-EndChar
-
-StartChar: m
-Encoding: 109 109 61
-Width: 26
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-12 3 m 1
- 14 3 l 1
- 14 13 l 1
- 12 13 l 1
- 12 3 l 1
-20 3 m 25
- 22 3 l 25
- 22 13 l 25
- 20 13 l 25
- 20 3 l 25
-8 14 m 1
- 18 14 l 1
- 18 16 l 1
- 8 16 l 1
- 8 14 l 1
-6 3 m 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
- 6 3 l 1
-EndSplineSet
-EndChar
-
-StartChar: n
-Encoding: 110 110 62
-Width: 23
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-15 13 m 1
- 15 9 l 1
- 19 3 l 1
- 19 7 l 1
- 15 13 l 1
-8 14 m 1
- 12 14 l 1
- 12 16 l 1
- 8 16 l 1
- 8 14 l 1
-6 3 m 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
- 6 3 l 1
-EndSplineSet
-EndChar
-
-StartChar: o
-Encoding: 111 111 63
-Width: 26
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-20 3 m 25
- 22 3 l 25
- 22 13 l 25
- 20 13 l 25
- 20 3 l 25
-8 14 m 1
- 18 14 l 1
- 18 16 l 1
- 8 16 l 1
- 8 14 l 1
-6 3 m 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
- 6 3 l 1
-8 0 m 1
- 18 0 l 25
- 18 2 l 1
- 8 2 l 25
- 8 0 l 1
-EndSplineSet
-EndChar
-
-StartChar: p
-Encoding: 112 112 64
-Width: 18
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-4 3 m 1
- 6 3 l 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
-4 17 m 1
- 6 17 l 25
- 6 27 l 1
- 4 27 l 25
- 4 17 l 1
-10 28 m 1
- 10 30 l 1
- 6 30 l 1
- 6 28 l 1
- 10 28 l 1
-12 17 m 1
- 14 17 l 25
- 14 27 l 1
- 12 27 l 25
- 12 17 l 1
-6 16 m 25
- 6 14 l 25
- 10 14 l 25
- 10 16 l 25
- 6 16 l 25
-EndSplineSet
-EndChar
-
-StartChar: q
-Encoding: 113 113 65
-Width: 18
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-12 3 m 1
- 14 3 l 1
- 14 13 l 1
- 12 13 l 1
- 12 3 l 1
-12 17 m 1
- 14 17 l 25
- 14 27 l 1
- 12 27 l 25
- 12 17 l 1
-6 27 m 25
- 4 27 l 25
- 4 17 l 25
- 6 17 l 25
- 6 27 l 25
-11 28 m 1
- 11 30 l 1
- 7 30 l 1
- 7 28 l 1
- 11 28 l 1
-7 14 m 1
- 11 14 l 1
- 11 16 l 1
- 7 16 l 1
- 7 14 l 1
-EndSplineSet
-EndChar
-
-StartChar: r
-Encoding: 114 114 66
-Width: 14
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-4 3 m 1
- 6 3 l 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
-6 16 m 25
- 6 14 l 25
- 10 14 l 25
- 10 16 l 25
- 6 16 l 25
-EndSplineSet
-EndChar
-
-StartChar: s
-Encoding: 115 115 67
-Width: 23
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-4 27 m 1
- 4 23 l 1
- 8 17 l 1
- 8 21 l 1
- 4 27 l 1
-15 28 m 25
- 15 30 l 25
- 5 30 l 25
- 5 28 l 25
- 15 28 l 25
-11 16 m 25
- 11 14 l 25
- 15 14 l 25
- 15 16 l 25
- 11 16 l 25
-17 3 m 25
- 19 3 l 25
- 19 13 l 25
- 17 13 l 25
- 17 3 l 25
-5 0 m 1
- 15 0 l 25
- 15 2 l 1
- 5 2 l 25
- 5 0 l 1
-EndSplineSet
-EndChar
-
-StartChar: t
-Encoding: 116 116 68
-Width: 16
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-6 27 m 25
- 4 27 l 25
- 4 17 l 25
- 6 17 l 25
- 6 27 l 25
-8 14 m 1
- 12 14 l 1
- 12 16 l 1
- 8 16 l 1
- 8 14 l 1
-6 3 m 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
- 6 3 l 1
-8 0 m 1
- 12 0 l 1
- 12 2 l 1
- 8 2 l 1
- 8 0 l 1
-EndSplineSet
-EndChar
-
-StartChar: u
-Encoding: 117 117 69
-Width: 26
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-20 3 m 25
- 22 3 l 25
- 22 13 l 25
- 20 13 l 25
- 20 3 l 25
-6 3 m 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
- 6 3 l 1
-8 0 m 1
- 18 0 l 25
- 18 2 l 1
- 8 2 l 25
- 8 0 l 1
-EndSplineSet
-EndChar
-
-StartChar: v
-Encoding: 118 118 70
-Width: 15
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-11 13 m 1
- 11 9 l 1
- 7 3 l 1
- 7 7 l 1
- 11 13 l 1
-6 3 m 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
- 6 3 l 1
-EndSplineSet
-EndChar
-
-StartChar: w
-Encoding: 119 119 71
-Width: 26
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-15 13 m 1
- 15 9 l 1
- 19 3 l 1
- 19 7 l 1
- 15 13 l 1
-11 13 m 1
- 11 9 l 1
- 7 3 l 1
- 7 7 l 1
- 11 13 l 1
-20 3 m 25
- 22 3 l 25
- 22 13 l 25
- 20 13 l 25
- 20 3 l 25
-6 3 m 1
- 6 13 l 1
- 4 13 l 1
- 4 3 l 1
- 6 3 l 1
-EndSplineSet
-EndChar
-
-StartChar: x
-Encoding: 120 120 72
-Width: 26
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-15 13 m 1
- 15 9 l 1
- 19 3 l 1
- 19 7 l 1
- 15 13 l 1
-11 13 m 1
- 11 9 l 1
- 7 3 l 1
- 7 7 l 1
- 11 13 l 1
-19 27 m 1
- 19 23 l 1
- 15 17 l 1
- 15 21 l 1
- 19 27 l 1
-7 27 m 1
- 7 23 l 1
- 11 17 l 1
- 11 21 l 1
- 7 27 l 1
-EndSplineSet
-EndChar
-
-StartChar: y
-Encoding: 121 121 73
-Width: 26
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-12 17 m 1
- 14 17 l 25
- 14 27 l 1
- 12 27 l 25
- 12 17 l 1
-20 17 m 1
- 22 17 l 25
- 22 27 l 1
- 20 27 l 25
- 20 17 l 1
-14 16 m 25
- 14 14 l 25
- 18 14 l 25
- 18 16 l 25
- 14 16 l 25
-20 3 m 25
- 22 3 l 25
- 22 13 l 25
- 20 13 l 25
- 20 3 l 25
-14 0 m 1
- 18 0 l 1
- 18 2 l 1
- 14 2 l 1
- 14 0 l 1
-EndSplineSet
-EndChar
-
-StartChar: z
-Encoding: 122 122 74
-Width: 26
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-11 13 m 1
- 11 9 l 1
- 7 3 l 1
- 7 7 l 1
- 11 13 l 1
-19 27 m 1
- 19 23 l 1
- 15 17 l 1
- 15 21 l 1
- 19 27 l 1
-18 28 m 25
- 18 30 l 25
- 8 30 l 25
- 8 28 l 25
- 18 28 l 25
-8 0 m 1
- 18 0 l 25
- 18 2 l 1
- 8 2 l 25
- 8 0 l 1
-EndSplineSet
-EndChar
-
-StartChar: braceleft
-Encoding: 123 123 75
-Width: 26
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-11 13 m 1
- 11 9 l 1
- 7 3 l 1
- 7 7 l 1
- 11 13 l 1
-7 27 m 1
- 7 23 l 1
- 11 17 l 1
- 11 21 l 1
- 7 27 l 1
-18 28 m 25
- 18 30 l 25
- 8 30 l 25
- 8 28 l 25
- 18 28 l 25
-8 14 m 1
- 12 14 l 1
- 12 16 l 1
- 8 16 l 1
- 8 14 l 1
-8 0 m 1
- 18 0 l 25
- 18 2 l 1
- 8 2 l 25
- 8 0 l 1
-EndSplineSet
-EndChar
-
-StartChar: bar
-Encoding: 124 124 76
-Width: 26
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-12 3 m 1
- 14 3 l 1
- 14 13 l 1
- 12 13 l 1
- 12 3 l 1
-12 17 m 1
- 14 17 l 25
- 14 27 l 1
- 12 27 l 25
- 12 17 l 1
 EndSplineSet
 EndChar
 
 StartChar: braceright
-Encoding: 125 125 77
+Encoding: 125 125 76
+Width: 19
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+11 13 m 1
+ 15 7 l 1
+ 15 3 l 1
+ 11 9 l 1
+ 11 13 l 1
+15 27 m 1
+ 15 23 l 1
+ 11 17 l 1
+ 11 21 l 1
+ 15 27 l 1
+14 28 m 25
+ 4 28 l 25
+ 4 30 l 25
+ 14 30 l 25
+ 14 28 l 25
+10 16 m 25
+ 14 16 l 25
+ 14 14 l 25
+ 10 14 l 25
+ 10 16 l 25
+4 0 m 1
+ 4 2 l 25
+ 14 2 l 1
+ 14 0 l 25
+ 4 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: dollar
+Encoding: 36 36 77
 Width: 26
 VWidth: 0
 Flags: HW
@@ -2721,31 +2700,41 @@ LayerCount: 2
 Back
 Fore
 SplineSet
-15 13 m 1
- 15 9 l 1
- 19 3 l 1
- 19 7 l 1
- 15 13 l 1
-19 27 m 1
- 19 23 l 1
- 15 17 l 1
- 15 21 l 1
- 19 27 l 1
-18 28 m 25
- 18 30 l 25
- 8 30 l 25
- 8 28 l 25
- 18 28 l 25
-14 16 m 25
- 14 14 l 25
- 18 14 l 25
- 18 16 l 25
- 14 16 l 25
-8 0 m 1
- 18 0 l 25
+12 3 m 1
+ 12 13 l 1
+ 14 13 l 1
+ 14 3 l 1
+ 12 3 l 1
+12 17 m 1
+ 12 27 l 25
+ 14 27 l 1
+ 14 17 l 25
+ 12 17 l 1
+6 27 m 25
+ 6 17 l 25
+ 4 17 l 25
+ 4 27 l 25
+ 6 27 l 25
+20 28 m 1
+ 8 28 l 1
+ 8 30 l 1
+ 20 30 l 1
+ 20 28 l 1
+20 3 m 25
+ 20 13 l 25
+ 22 13 l 25
+ 22 3 l 25
+ 20 3 l 25
+8 14 m 1
+ 8 16 l 1
+ 18 16 l 1
+ 18 14 l 1
+ 8 14 l 1
+6 0 m 1
+ 6 2 l 1
  18 2 l 1
- 8 2 l 25
- 8 0 l 1
+ 18 0 l 1
+ 6 0 l 1
 EndSplineSet
 EndChar
 EndChars
